@@ -3,8 +3,8 @@
 # Difficulty: Medium
 # Tags     : Hash Table, String, Sliding Window
 # Link     : https://leetcode.com/problems/longest-substring-without-repeating-characters/
-# Runtime  : 0 ms (beats 0%)
-# Memory   : 12472000 (beats 0%)
+# Runtime  : 306 ms (beats 54%)
+# Memory   : 16444000 (beats 42%)
 # Language : python
 # Copyright: (c) 2026 ksdhanuascent. All rights reserved.
 # Synced by: leetie
