@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 13 Solved
+## Progress Summary: 14 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -14,6 +14,7 @@
 | longest-palindromic-substring | 5. Longest Palindromic Substring | Medium | python3 | [Problem](https://leetcode.com/problems/longest-palindromic-substring/) | [Solution](./solutions/Medium/0005-longest-palindromic-substring/solution.py) |
 | merge-two-sorted-lists | Merge Two Sorted Lists | Easy | python | [Problem](https://leetcode.com/problems/merge-two-sorted-lists/) | [Solution](./solutions/Easy/0021-merge-two-sorted-lists/solution.py) |
 | palindrome-number | Palindrome Number | Easy | python | [Problem](https://leetcode.com/problems/palindrome-number/) | [Solution](./solutions/Easy/0009-palindrome-number/solution.py) |
+| ransom-note | Ransom Note | Easy | python | [Problem](https://leetcode.com/problems/ransom-note/) | [Solution](./solutions/Easy/0383-ransom-note/solution.py) |
 | remove-element | Remove Element | Easy | python | [Problem](https://leetcode.com/problems/remove-element/) | [Solution](./solutions/Easy/0027-remove-element/solution.py) |
 | reverse-integer | Reverse Integer | Medium | python | [Problem](https://leetcode.com/problems/reverse-integer/) | [Solution](./solutions/Medium/0007-reverse-integer/solution.py) |
 | string-to-integer-atoi | String to Integer (atoi) | Medium | python | [Problem](https://leetcode.com/problems/string-to-integer-atoi/) | [Solution](./solutions/Medium/0008-string-to-integer-atoi/solution.py) |
