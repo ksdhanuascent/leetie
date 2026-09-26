@@ -3,8 +3,8 @@
 # Difficulty: Hard
 # Tags     : Array, Queue, Sliding Window, Heap (Priority Queue), Monotonic Queue, Range Minimum/Maximum Query
 # Link     : https://leetcode.com/problems/sliding-window-maximum/
-# Runtime  : 0 ms (beats 0%)
-# Memory   : 12476000 (beats 0%)
+# Runtime  : 275 ms (beats 65%)
+# Memory   : 28812000 (beats 57%)
 # Language : python
 # Copyright: (c) 2026 ksdhanuascent. All rights reserved.
 # Synced by: leetie
