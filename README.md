@@ -2,11 +2,10 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 15 Solved
+## Progress Summary: 16 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
-| search-insert-position | Search Insert Position | Easy | python | [Problem](https://leetcode.com/problems/search-insert-position/) | [Solution](./solutions/Easy/0035-search-insert-position/solution.py) |
 | two-sum | 1. Two Sum | Easy | python3 | [Problem](https://leetcode.com/problems/two-sum/) | [Solution](./solutions/Easy/0001-two-sum/solution.py) |
 | add-two-numbers | 2. Add Two Numbers | Medium | python3 | [Problem](https://leetcode.com/problems/add-two-numbers/) | [Solution](./solutions/Medium/0002-add-two-numbers/solution.py) |
 | longest-substring-without-repeating-characters | 3. Longest Substring Without Repeating Characters | Medium | python3 | [Problem](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [Solution](./solutions/Medium/0003-longest-substring-without-repeating-characters/solution.py) |
@@ -20,4 +19,6 @@
 | merge-two-sorted-lists | 21. Merge Two Sorted Lists | Easy | python3 | [Problem](https://leetcode.com/problems/merge-two-sorted-lists/) | [Solution](./solutions/Easy/0021-merge-two-sorted-lists/solution.py) |
 | remove-element | 27. Remove Element | Easy | python3 | [Problem](https://leetcode.com/problems/remove-element/) | [Solution](./solutions/Easy/0027-remove-element/solution.py) |
 | find-the-index-of-the-first-occurrence-in-a-string | 28. Find The Index Of The First Occurrence In A String | Easy | python3 | [Problem](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/) | [Solution](./solutions/Easy/0028-find-the-index-of-the-first-occurrence-in-a-string/solution.py) |
+| search-insert-position | 35. Search Insert Position | Easy | python3 | [Problem](https://leetcode.com/problems/search-insert-position/) | [Solution](./solutions/Easy/0035-search-insert-position/solution.py) |
 | ransom-note | 383. Ransom Note | Easy | python3 | [Problem](https://leetcode.com/problems/ransom-note/) | [Solution](./solutions/Easy/0383-ransom-note/solution.py) |
+| valid-parentheses | Valid Parentheses | Easy | python | [Problem](https://leetcode.com/problems/valid-parentheses/) | [Solution](./solutions/Easy/0020-valid-parentheses/solution.py) |
